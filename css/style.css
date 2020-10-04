@@ -132,6 +132,7 @@ body {
 
 .download-title {
   text-align: center;
+  margin-top: 76px;
 }
 
 .download-title:after {
@@ -176,7 +177,6 @@ body {
   display: block;
   width: 135px;
   height: 42px;
-  color: #ff8c2c;
 
   cursor: pointer;
 }
